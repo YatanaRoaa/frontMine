@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKER_USER }}/minecraft-front-pg:latest
+          tags: ${{ secrets.DOCKER_USER }}/users-front-pg:latest
